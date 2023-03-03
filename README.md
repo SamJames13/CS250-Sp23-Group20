@@ -1,5 +1,5 @@
 # CS250-Sp23-Group20
-the best group (that totally showed up lol)
+"The Bluffers"
 
 Samantha James
 
