@@ -10,3 +10,5 @@ Joshua Olaoye
 "The Bluffers" are the bluffing best :)
 
 A software system so good, you'd think we were bluffing
+
+A software system designed to detect and report unstable coastal bluffs
